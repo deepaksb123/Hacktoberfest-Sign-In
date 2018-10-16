@@ -24,6 +24,7 @@ In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link 
   - Go back to the original repo.
   - Hit "new pull request" and compare between forks.
   - Confirm the pull request and that's it!
+  - Deepak
 
 ### Installation
 
